@@ -1,4 +1,4 @@
-class a55;
+class a10;
   
   bit [7:0] a,b,c;
   
@@ -12,7 +12,7 @@ endclass
 
 module tb;
   
-  a55 t1;
+  a10 t1;
   
   initial begin
     t1 = new(.a(2), .b(4), .c(56));
