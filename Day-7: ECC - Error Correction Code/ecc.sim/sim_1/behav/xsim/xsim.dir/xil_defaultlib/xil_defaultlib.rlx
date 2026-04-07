@@ -1,0 +1,9 @@
+0.7
+2020.2
+Oct 13 2023
+20:21:30
+/home/bshankar/FPGA/xilinx_testing/ECC/ecc/ecc.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,uvm,,,,,,
+/home/bshankar/FPGA/xilinx_testing/ECC/ecc/ecc.srcs/sim_1/new/tb.sv,1775564227,systemVerilog,,,,tb,,uvm,,,,,,
+/home/bshankar/FPGA/xilinx_testing/ECC/ecc/ecc.srcs/sources_1/new/decoder.v,1775564515,verilog,,/home/bshankar/FPGA/xilinx_testing/ECC/ecc/ecc.srcs/sources_1/new/ecc_module.v,,decoder,,uvm,,,,,,
+/home/bshankar/FPGA/xilinx_testing/ECC/ecc/ecc.srcs/sources_1/new/ecc_module.v,1775564540,verilog,,/home/bshankar/FPGA/xilinx_testing/ECC/ecc/ecc.srcs/sources_1/new/encoder.v,,ecc_module,,uvm,,,,,,
+/home/bshankar/FPGA/xilinx_testing/ECC/ecc/ecc.srcs/sources_1/new/encoder.v,1775549918,verilog,,,,encoder,,uvm,,,,,,

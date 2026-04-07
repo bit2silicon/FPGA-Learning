@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/bshankar/FPGA/xilinx_testing/ECC/ecc/ecc.srcs/sources_1/new/decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/bshankar/FPGA/xilinx_testing/ECC/ecc/ecc.srcs/sources_1/new/ecc_module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ecc_module
